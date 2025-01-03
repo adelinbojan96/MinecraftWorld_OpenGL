@@ -50,3 +50,5 @@ A 3D interactive environment inspired by Minecraft's "Creative Mode," built usin
    ```bash
    git clone https://github.com/your-username/OpenGL-Minecraft-World.git
    cd OpenGL-Minecraft-World
+2. Download the models:
+https://we.tl/t-O8vsqTmhfk
