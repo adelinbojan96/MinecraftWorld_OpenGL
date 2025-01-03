@@ -40,6 +40,10 @@ A 3D interactive environment inspired by Minecraft's "Creative Mode," built usin
   - [GLEW](http://glew.sourceforge.net/)
   - [GLM](https://github.com/g-truc/glm)
   - [Assimp](https://www.assimp.org/)
+ 
+## Screenshots
+![image](https://github.com/user-attachments/assets/c5da9d3f-29a8-47e9-8503-11487787477e)
+
 
 ### Steps to Run
 1. Clone the repository:
