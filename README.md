@@ -1,33 +1,48 @@
-OpenGL Minecraft World Simulator 🌍🎮
-A fully interactive 3D environment built using modern OpenGL, inspired by Minecraft's "Creative Mode." This project combines real-time rendering techniques, dynamic object animations, and immersive interactions to recreate a Minecraft-like world with added photorealistic effects.
+# OpenGL Minecraft World Simulator 🌍🎮
 
-Features
-Realistic Rendering: Shadow mapping, dynamic lighting, and fog effects for a visually immersive experience.
-Interactive Environment:
-Navigate the world with collision detection to prevent passing through objects.
-Adjust the height of objects (e.g., Creepers) dynamically using keyboard inputs.
-Experience seamless teleportation between regions with visual enhancements like fog density changes.
-Dynamic Characters:
-Watch Villagers and Creepers move across predefined paths.
-Interact with Herobrine—get too close, and your session ends!
-Custom Camera:
-Explore the world with a first-person perspective.
-Smooth movement, rotation, and teleportation mechanisms.
-Environmental Details:
-A detailed map featuring the Classical Minecraft World and Nether, designed in Blender.
-Dynamic effects like fog density transitions and shadow casting based on light sources.
-Getting Started
-Clone the repository.
-Ensure dependencies (e.g., GLFW, GLEW, GLM, Assimp) are installed.
-Compile and run the program to load into a Minecraft-inspired 3D world.
-Key Controls
-Movement: W, A, S, D for movement, and arrow keys for camera rotation.
-Creeper Adjustments: I to increase height, K to decrease height.
-Rendering Modes: 1 for filled polygons, 2 for wireframes, 3 for point rendering.
-Debugging: Press O to display the current camera position.
-Future Enhancements
-Add survival mode with player-mob interactions.
-Introduce weather effects like snow for the Classical Minecraft World.
-Expand the map with new textures and objects, including an End portal.
-Implement mob AI for dynamic interactions.
-Screenshots
+A 3D interactive environment inspired by Minecraft's "Creative Mode," built using modern OpenGL. This project showcases advanced rendering techniques, dynamic animations, and immersive interactions, all wrapped in a photorealistic world.
+
+---
+
+## 🚀 Features
+
+- **Realistic Rendering**:
+  - Shadow mapping for depth and lighting effects.
+  - Dynamic directional and point lights (e.g., torches, sunlight).
+  - Fog effects for enhanced atmospheric immersion.
+
+- **Interactive Gameplay**:
+  - Free movement with collision detection to prevent walking through objects.
+  - Creeper height adjustments (`I` to increase, `K` to decrease).
+  - Teleportation between regions with seamless transitions (fog effects included).
+  - Herobrine interaction: Get too close, and your game ends!
+
+- **Dynamic Characters**:
+  - Villagers and Creepers traverse predefined paths in the world.
+  - Creeper animations, including height scaling and movement between waypoints.
+
+- **Customizable Camera**:
+  - First-person perspective with smooth controls.
+  - Collision detection for realistic navigation.
+
+- **Environmental Details**:
+  - A Blender-designed map featuring the Classical Minecraft World and the Nether.
+  - Dynamic shadow casting and fog density based on light and environment changes.
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- **Dependencies**:  
+  Install the following libraries:
+  - [GLFW](https://www.glfw.org/)
+  - [GLEW](http://glew.sourceforge.net/)
+  - [GLM](https://github.com/g-truc/glm)
+  - [Assimp](https://www.assimp.org/)
+
+### Steps to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/OpenGL-Minecraft-World.git
+   cd OpenGL-Minecraft-World
