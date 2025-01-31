@@ -31,7 +31,7 @@ A 3D interactive environment inspired by Minecraft's "Creative Mode," built usin
 
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Get the resources
 
 ### Prerequisites
 - **Dependencies**:  
