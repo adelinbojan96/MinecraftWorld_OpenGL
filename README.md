@@ -1,10 +1,10 @@
-# OpenGL Minecraft World Simulator 🌍🎮
+# OpenGL Minecraft World Simulator 
 
 A 3D interactive environment inspired by Minecraft's "Creative Mode," built using modern OpenGL. This project showcases advanced rendering techniques, dynamic animations, and immersive interactions, all wrapped in a photorealistic world.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Realistic Rendering**:
   - Shadow mapping for depth and lighting effects.
@@ -31,7 +31,7 @@ A 3D interactive environment inspired by Minecraft's "Creative Mode," built usin
 
 ---
 
-## 🛠️ Get the resources
+##  Get the resources
 
 ### Prerequisites
 - **Dependencies**:  
